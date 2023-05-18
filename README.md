@@ -1,4 +1,7 @@
 # 简单部署ChatGPT
+
+使用<https://vercel.com/>免费部署ChatGPT网页
+
 ## 前期准备
 1. 能科学上网
 2. 注册一个github帐号
