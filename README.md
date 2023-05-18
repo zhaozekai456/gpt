@@ -35,10 +35,13 @@
 ## 域名配置
 
 在项目页面中点 ViewDomains
+
 ![](img/view_domains.png)
 
 添加一个你的子域名, 然后点Refresh会弹出一个CNAME的DNS解析配置
+
 ![](img/domain_conf.png)
 
 给子域名添加CNAME解析,这边以华为云为例
+
 ![](img/dns.png)
