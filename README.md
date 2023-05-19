@@ -26,7 +26,7 @@
 
 填写配置文件,然后点deploy等一会儿,就部署完成了
 
-*  OPENAI_API_KEY   :   填写ChatGPT的api-key
+*  OPENAI_API_KEY   :   填写你的api-key
 *  CODE             :   设置一个你自己的密码
 
 ![conf](img/vercel_conf.png)
