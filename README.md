@@ -1,17 +1,16 @@
-# 简单部署ChatGPT
-
-使用<https://vercel.com/>免费部署ChatGPT网页
+# 简单部署工作助手
+使用<https://vercel.com/>免费部署网页
 
 ## 前期准备
 1. 能科学上网
 2. 注册一个github帐号
-3. 注册或者买一ChatGPT帐号,获取到api-key,可以在这个网站买一个<https://www.cstorv.com/>
+3. 注册或者买一帐号,获取到api-key,可以在这个网站买一个
 4. 最好有一个域名,如果没有域名每次使用都需要挂梯子
 
 ## 部署流程
 
  使用开源项目
-<https://github.com/Yidadaa/ChatGPT-Next-Web>
+
 
 向下拉页面找到 readme.md 直接点Deploy
 
